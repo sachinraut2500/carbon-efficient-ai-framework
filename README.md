@@ -391,7 +391,7 @@ if __name__ == "__main__":
 
 ```bash
 pip install torch torchvision pandas matplotlib seaborn psutil numpy
-```
+```--
 
 ## Repository Structure
 ```
