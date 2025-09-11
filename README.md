@@ -426,7 +426,7 @@ This framework addresses the core challenges outlined in the DecAI project by pr
 
 The code demonstrates proficiency in Python, PyTorch, statistical analysis, and sustainable computing principles - directly aligning with the PhD position requirements at Aalto University.
 
----
+------
 
 **Repository Description Paragraph:**
 
