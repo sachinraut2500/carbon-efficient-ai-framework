@@ -305,7 +305,7 @@ def example_model_training():
         nn.ReLU(),
         nn.Linear(128, 10)
     )
-    
+    -----
     # Simulate training
     optimizer = torch.optim.Adam(model.parameters())
     criterion = nn.CrossEntropyLoss()
