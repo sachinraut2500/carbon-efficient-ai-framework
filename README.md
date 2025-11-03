@@ -5,7 +5,7 @@
 ## Project Overview
 
 This repository contains a comprehensive framework for assessing and optimizing the carbon footprint of AI model training and inference operations. The project addresses the growing concern of AI's environmental impact by providing tools to measure, analyze, and reduce carbon emissions throughout the AI lifecycle.
-
+--------
 ## Key Features
 
 ### 1. Carbon Footprint Calculator (`carbon_calculator.py`)
