@@ -1,7 +1,7 @@
 # Carbon-Efficient AI Framework
 
 ## Repository URL: https://github.com/sachinraut2500/carbon-efficient-ai-framework
----
+------
 ## Project Overview
 
 This repository contains a comprehensive framework for assessing and optimizing the carbon footprint of AI model training and inference operations. The project addresses the growing concern of AI's environmental impact by providing tools to measure, analyze, and reduce carbon emissions throughout the AI lifecycle.
